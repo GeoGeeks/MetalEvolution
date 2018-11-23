@@ -5,7 +5,7 @@
               <!--espacio vacio para maquetado-->
           </div>
           <div class="col-sm-10">
-              <img class="logo-p" alt="Metal Evolution Logo" src="../assets/metal.png">
+              <img class="logo-p" alt="Metal Evolution Logo" src="http://geoapps.esri.co/assetsMetalMap/metal.png">
           </div>
           <div class="col-sm-1">
               <!--espacio vacio para maquetado-->
@@ -16,13 +16,13 @@
               <!--espacio vacio para maquetado-->
           </div>
           <div class="col-sm-4 text-center">
-              <a target="_blank" v-bind:href="bangerFilms"><img class="logo" src="../assets/BANGER-Logo.svg" alt="banger films"></a>
+              <a target="_blank" v-bind:href="bangerFilms"><img class="logo" src="http://geoapps.esri.co/assetsMetalMap/BANGER-Logo.png" alt="banger films"></a>
           </div>
           <div class="col-sm-2 text-center">
-              <img id="arrow" src="../assets/down.png" alt="inicio">
+              <img id="arrow" src="http://geoapps.esri.co/assetsMetalMap/down.png" alt="inicio">
           </div>
           <div class="col-sm-4 text-center">
-              <a target="_blank" v-bind:href="online"><img class="logo" src="../assets/logo_footer.png" alt="banger tv"></a>
+              <a target="_blank" v-bind:href="online"><img class="logo" src="http://geoapps.esri.co/assetsMetalMap/logo_footer.png" alt="banger tv"></a>
           </div>
           <div class="col-sm-1">
               <!--espacio vacio para maquetado-->
@@ -33,7 +33,7 @@
               <!--espacio vacio para maquetado-->
           </div>
           <div class="col-sm-10 text-center">
-              <button class="btn btn-outline-danger" type="submit"><router-link to="/Metal"><img id="guitar" src="../assets/guitar.png" alt="inicio"></router-link></button>
+              <button class="btn btn-outline-danger" type="submit"><router-link to="/Metal"><img id="guitar" src="http://geoapps.esri.co/assetsMetalMap/guitar.png" alt="inicio"></router-link></button>
           </div>
           <div class="col-sm-1">
               <!--espacio vacio para maquetado-->
